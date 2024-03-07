@@ -55,6 +55,13 @@ In the process of developing this challenge, I acquired valuable knowledge in th
 
 I aim to explore and implement more responsive design strategies. This includes refining layouts to ensure optimal user experiences across a diverse range of devices and screen sizes.I want to further explore design techniques and delve into more advanced CSS features to enhance my skills.
 
+
+### Useful resources
+
+- [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to CSS Flexbox.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - An excellent resource for HTML, CSS, and JavaScript documentation.
+
+
 ## Author
 
 - GitHub - [Rgit915](https://github.com/Rgit915)
