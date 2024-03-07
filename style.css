@@ -1,7 +1,57 @@
+body {
+  min-height: 100vh;
+  max-width: 100%;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 8%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: hsl(0, 0%, 12%);
+  min-height: 100vh;
+  max-width: 18.75rem;
+  border-radius: 20px;
+  padding: 20px;
+
+}
+
+.profile > img {
+  border-radius: 50%;
+}
+.profile > h1 {
+  font-size: 2rem;
+}
+.location {
+  color: hsl(75, 94%, 57%);
+}
+.socials button {
+  background-color: hsl(0, 0%, 20%);
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
